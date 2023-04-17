@@ -69,7 +69,7 @@ font-size: 18px !important;
 		 font-size: 24px !important;
 	 }
 	
-/*.wrap {background:url("https://primesellability.com/bedlam/images/headerbg.png") top repeat-x;}*/
+/*.wrap {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/headerbg.png") top repeat-x;}*/
 .header {background-color:#ffffff; padding-top:5px; font-size: 16px !important;}
 .gray {background-color: #484c50;}
 .navbg, .topnav a, .midnav a, .navnxt {background-color:#000;}
@@ -84,19 +84,19 @@ font-size: 18px !important;
 .topnav, .headertop {line-height:33px; font-size:18px}
 .midnav.navbg {line-height:37px; font-size: 18px;}
 .navbg .navbar-nav {padding: 3px;}
-.search {background:url("https://primesellability.com/bedlam/images/search.png") center right no-repeat #e0e0e0; border-radius: 0;}
+.search {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/search.png") center right no-repeat #e0e0e0; border-radius: 0;}
 .navnxt {color: #b7b7b7; margin-top: 2px; margin-bottom: 2px;}
 .navbar-header {text-align: center;}
-.headertop {background: url("https://primesellability.com/bedlam/images/headertopbg.gif") top repeat-x; padding-bottom:10px;}
+.headertop {background: url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/headertopbg.gif") top repeat-x; padding-bottom:10px;}
 .headertop .nav > li > a {padding: 0 6px;}
 .nav > li > a:hover, .nav > li > a:focus {background: #fbce03;}
 .navbar-left {padding-left: 0; width: 90%; text-align: center !important;}
 .navnxt p {font-size:18px; clear:both; line-height:0px; color:#727272;}
 .fast, .rated, .range {padding-left:10px; text-align:center;}
-.fast {background:url("https://primesellability.com/bedlam/images/ship.png") 15% center no-repeat;}
-.rated {background:url("https://primesellability.com/bedlam/images/star.png") 15% center no-repeat;}
-.range {background:url("https://primesellability.com/bedlam/images/range.png") 15% center no-repeat;}
-.hero_sctr {background: url("https://primesellability.com/bedlam/images/banner.jpg") center no-repeat; background-size: cover; /*min-height: 203px;*/}
+.fast {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/ship.png") 15% center no-repeat;}
+.rated {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/star.png") 15% center no-repeat;}
+.range {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/range.png") 15% center no-repeat;}
+.hero_sctr {background: url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/banner.jpg") center no-repeat; background-size: cover; /*min-height: 203px;*/}
 .hero_sctr a {display: block; float: right; position: relative; right: 10%; top: 100px;}
 .thumbnail a {width:33%; margin:21px auto; text-align:center; display:inline-block;}
 .thumbnail img { max-width:70px; margin-top:15px;}
@@ -109,21 +109,21 @@ font-size: 18px !important;
 .specs {text-transform: initial; max-height: 322px; overflow: auto}
 .product {margin-top:18px;border:1px solid black;}
 .product .large {text-align:center; margin-bottom:10px;}
-.samed {background:url("https://primesellability.com/bedlam/images/dispatch.png") 2% center no-repeat #0287ff; padding:10px 0 10px 60px;
+.samed {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/dispatch.png") 2% center no-repeat #0287ff; padding:10px 0 10px 60px;
 line-height:20px; font-size:18px; font-weight:normal;}
 .skull {clear: both; position: absolute; right: -100%; width: 100%; bottom: 0; background:black; height: 66px; line-height: 61px; color: #fbce03; padding-left: 25px; font-size: 18px !important;}
 .skull img {padding-left: 8%}
 .skull div {background: url("") no-repeat top right; position: relative;
     height: 96px;width: 120px; float: right;top: -29px; right: -2px;}
-.supportbg {background:url("https://primesellability.com/bedlam/images/background-img.jpg") center 95px repeat; padding-bottom: 15px;}
-.supportbg .wegot {background:url("https://primesellability.com/bedlam/images/wegot.png") center top no-repeat; padding:50px 0; text-align: center; font-size: 26px; color: black;}
+.supportbg {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/background-img.jpg") center 95px repeat; padding-bottom: 15px;}
+.supportbg .wegot {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/wegot.png") center top no-repeat; padding:50px 0; text-align: center; font-size: 26px; color: black;}
 .supbrdr img {border: 3px solid #000;}
 .support, .quality, .bestpr, .ukbase {background:no-repeat center left; padding:12px 0 12px 42px; display:block; font-family: "Anton"; font-size:22px !important;}
-.support {background-image:url("https://primesellability.com/bedlam/images/like.png");  width: 28% !important;}
-.quality {background-image:url("https://primesellability.com/bedlam/images/retail.png"); width: 24% !important;}
-.bestpr {background-image:url("https://primesellability.com/bedlam/images/plane.png"); width: 23% !important;}
-.ukbase {background-image:url("https://primesellability.com/bedlam/images/uk.png"); width: 24% !important;}
-.botlog {background: url("https://primesellability.com/bedlam/images/botlogbg.gif") top repeat-x; padding-top: 15px; min-height: 110px; text-align: center; margin: 0 auto;}
+.support {background-image:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/like.png");  width: 28% !important;}
+.quality {background-image:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/retail.png"); width: 24% !important;}
+.bestpr {background-image:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/plane.png"); width: 23% !important;}
+.ukbase {background-image:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/uk.png"); width: 24% !important;}
+.botlog {background: url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/botlogbg.gif") top repeat-x; padding-top: 15px; min-height: 110px; text-align: center; margin: 0 auto;}
 .botlog img { display:inline-block; margin: 0 1.8%; vertical-align: middle; }
 .item-title {margin-top: 10px; margin-bottom: 5px; font-size:18px!important; font-weight:normal; text-align:center;}
 .item-desc {text-align:center; font-size:18px; color:#999}
@@ -135,7 +135,7 @@ line-height:20px; font-size:18px; font-weight:normal;}
 .list-unstyled li a:hover {color:#ccc; text-decoration:none;}
 .list-inline { padding-left: 0; list-style: none;}
 .list-inline > li { display: inline-block;}
-.star {background:url("https://primesellability.com/bedlam/images/stars.png") center no-repeat; padding:22px;}
+.star {background:url("https://raw.githubusercontent.com/bedlamfire/bedlam/main/images/stars.png") center no-repeat; padding:22px;}
 .intro {font-size:18px;}
 .footerl {padding:15px 10px; font-size:18px; background-color:#202020;}
 .col-title {font-weight: 400; font-size: 1em;}
